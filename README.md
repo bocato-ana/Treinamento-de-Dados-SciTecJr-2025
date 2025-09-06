@@ -3,5 +3,5 @@ Estudo de planilha de IA + Streamlit - Mental Health Student
 
 ## Links importantes
 
-- Link do app no Streamlit: [Meu App no Streamlit](https://seu-app.streamlit.app)
+- Link do app no Streamlit: [Meu App no Streamlit](https://treinamento-de-dados-scitecjr-2025-ana.streamlit.app/)
 - Link do repositório no GitHub: [Repositório GitHub](https://github.com/seu-usuario/seu-repositorio)
