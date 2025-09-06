@@ -1,0 +1,102 @@
+Choose your gender,Age,What is your course?,Marital status,Do you have Depression?,Do you have Anxiety?,Do you have Panic attack?,Did you seek any specialist for a treatment?
+False,18,Engineering,False,1,0,1,0
+True,21,Islamic Education,False,0,1,0,0
+True,19,Information Technology,False,1,1,1,0
+False,22,Law,True,1,0,0,0
+True,23,Mathematics,False,0,0,0,0
+True,19,Engineering,False,0,0,1,0
+False,23,Islamic Education,True,1,0,1,0
+False,18,Information Technology,False,0,1,0,0
+False,19,Human Resources,False,0,0,0,0
+True,18,Human Sciences,False,0,1,1,0
+False,20,Psychology,False,0,0,0,0
+False,24,Engineering,True,1,0,0,0
+False,18,Information Technology,False,1,0,0,0
+True,19,Engineering,False,0,0,0,0
+False,18,Business & Economics,False,0,1,0,0
+True,24,Information Technology,False,0,0,0,0
+False,24,Business & Economics,False,0,0,0,0
+False,24,,True,1,1,1,0
+False,20,Information Technology,False,0,1,0,0
+False,18,Marine Science,True,1,1,1,0
+False,19,Engineering,False,0,0,1,0
+False,18,Engineering,False,0,0,0,0
+False,24,Information Technology,False,0,0,0,0
+False,24,Engineering,False,0,0,0,0
+False,23,Information Technology,False,1,1,1,0
+False,18,Business & Economics,False,0,0,0,0
+False,19,Engineering,False,0,0,0,0
+True,18,Engineering,True,1,1,0,0
+False,24,Information Technology,True,1,1,1,1
+False,24,Information Technology,False,0,0,0,0
+False,23,Business & Economics,False,0,0,0,0
+True,18,Information Technology,False,0,0,0,0
+True,19,Information Technology,False,0,0,1,0
+True,18,Information Technology,True,1,1,0,1
+False,19,Information Technology,False,1,1,1,0
+False,18,Engineering,False,0,0,0,0
+False,18,Law,False,1,1,0,0
+False,19,Information Technology,False,1,1,1,0
+False,18,Human Sciences,False,0,0,0,0
+False,24,Engineering,True,1,0,1,1
+False,24,Information Technology,False,0,1,0,0
+False,22,Engineering,False,0,0,0,0
+False,20,Islamic Education,False,1,0,0,0
+True,,Information Technology,False,0,0,0,0
+True,23,Human Sciences,False,0,0,1,0
+True,18,Information Technology,False,0,1,1,0
+False,19,Engineering,False,0,1,0,0
+False,18,Engineering,False,0,0,0,0
+True,24,Information Technology,False,1,0,0,0
+False,24,Information Technology,False,0,0,1,0
+False,23,Human Sciences,True,1,0,1,1
+False,18,Information Technology,False,0,1,0,0
+False,19,Health Sciences,False,0,0,0,0
+False,20,Engineering,True,1,1,1,0
+False,19,Information Technology,False,1,0,1,1
+True,21,Information Technology,False,0,0,0,0
+True,23,Human Sciences,False,0,0,0,0
+False,20,Human Sciences,False,1,1,0,0
+False,18,Information Technology,False,0,0,0,0
+False,23,Human Sciences,False,0,0,0,0
+False,18,Information Technology,False,0,0,1,0
+False,19,Information Technology,False,0,0,0,0
+False,18,Information Technology,False,0,0,1,0
+False,24,Engineering,False,0,0,1,0
+False,24,Engineering,False,0,0,0,0
+False,23,Business & Economics,False,1,1,0,0
+False,18,Engineering,False,0,1,0,0
+True,19,Business & Economics,True,1,0,1,0
+False,18,Human Sciences,False,1,0,0,0
+False,24,Health Sciences,False,0,1,0,0
+False,24,Health Sciences,False,0,0,0,0
+False,18,Law,False,0,0,1,0
+False,19,Information Technology,True,1,0,0,0
+True,18,Health Sciences,False,0,0,0,0
+True,24,Information Technology,False,0,1,0,0
+False,24,Engineering,False,0,1,1,0
+False,23,Engineering,False,1,0,0,0
+False,18,Human Sciences,False,0,0,1,0
+False,19,Health Sciences,False,0,0,0,0
+False,18,Engineering,False,0,0,0,0
+False,24,Communication,True,1,1,1,0
+False,24,Health Sciences,False,0,0,0,0
+False,19,Engineering,False,1,1,0,0
+False,19,Islamic Education,False,0,0,0,0
+True,23,Health Sciences,False,0,0,0,0
+False,18,Psychology,False,1,1,0,1
+False,19,Islamic Education,False,0,0,0,0
+False,18,Psychology,False,1,1,1,0
+True,24,Information Technology,False,0,1,0,0
+True,24,Engineering,False,0,0,1,0
+False,23,Human Sciences,False,0,0,1,0
+True,18,Engineering,False,0,1,0,0
+False,19,Engineering,True,1,0,0,0
+False,18,Human Sciences,False,1,0,0,0
+False,24,Islamic Education,False,0,0,1,0
+False,18,Islamic Education,False,0,0,0,0
+False,21,Information Technology,False,0,1,0,0
+True,18,Engineering,False,1,1,0,0
+False,19,Health Sciences,True,1,0,1,0
+False,23,Islamic Education,False,0,0,0,0
+True,20,Health Sciences,False,0,0,0,0
